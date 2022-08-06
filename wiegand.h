@@ -1,5 +1,5 @@
-#define PIN_D0 18
-#define PIN_D1 19
+#define PIN_D0 2
+#define PIN_D1 3
 
 #define NOT_RED_LED 4
 #define NOT_GRN_LED 5
